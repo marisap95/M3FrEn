@@ -1,14 +1,11 @@
 # M3FrEn
-Repository for Multivariate Multiscale Multi-Frequency Entropy
 
-This repository consists of the code of _Multivariate Multiscale Multi-Frequency Entropy (M3FrEn)_. M3FrEn is a novel complexity metric for signal analysis that simultaneously incorporates multiscale dynamics, multichannel dependencies, and multi-frequency structure into a unified entropy-based framework. 
-
-
-# Multi-Frequency Entropy Metrics for EEG Analysis
-
-This repository contains MATLAB implementations of three entropy-based metrics — mFrEn, M2FrEn, and M3FrEn — for analyzing EEG signals across multiple frequency bands. These metrics are introduced in the work:
+This repository consists of the MATLAB code of _Multivariate Multiscale Multi-Frequency Entropy (M3FrEn)_. M3FrEn is a novel complexity metric for signal analysis that simultaneously incorporates multiscale dynamics, multichannel dependencies, and multi-frequency structure into a unified entropy-based framework. This metric is introduced in the work:
 
 > _"A Novel Entropy Metric for Unified Analysis of Temporal, Spatial, and Spectral EEG Properties"_  
+
+Moreover, the 
+This repository contains MATLAB implementations of three entropy-based metrics — mFrEn, M2FrEn, and M3FrEn — for analyzing EEG signals across multiple frequency bands. 
 
 
 ## Contents
