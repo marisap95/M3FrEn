@@ -11,7 +11,7 @@ This repository contains MATLAB implementations of three entropy-based metrics â
 > _"A Novel Entropy Metric for Unified Analysis of Temporal, Spatial, and Spectral EEG Properties"_  
 
 
-# Contents
+## Contents
 
 - `MAIN.m` â€“ Main script for testing the metrics on simulated EEG signals.
 - `mFrEn.m` â€“ Multi-Frequency Entropy (single-channel, single-scale).
@@ -26,7 +26,7 @@ This repository contains MATLAB implementations of three entropy-based metrics â
 
 # Description
 
-This toolbox provides entropy-based tools to quantify the complexity of EEG signals by incorporating:
+These codes provide entropy-based metrics to quantify the complexity of EEG signals by incorporating:
 
 - Temporal structure (embedding dimension and delay)
 - Spectral decomposition (Delta, Theta, Alpha, Beta bands)
