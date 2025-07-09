@@ -9,7 +9,7 @@ In this work, we propose **M3FrEn** as a robust and interpretable measure of EEG
 - **Spectral diversity** via symbolic permutation analysis across δ, θ, α, β bands.
 - **Spatial structure** via multichannel embedding.
   
-This work extends previous approaches like **mFrEn** [Niu et al., 2024](https://doi.org/10.3390/e26090728) by including the **delta band**, and introduces **M2FrEn** and **M3FrEn** as the **univariate and multivariate multiscale** generalizations, respectively.
+This work extends previous approaches like **mFrEn** [[Niu et al., 2024](https://doi.org/10.3390/e26090728)] by including the **delta band**, and introduces **M2FrEn** and **M3FrEn** as the **univariate and multivariate multiscale** generalizations, respectively.
 
 ---
 ## 🧠 About the Metrics
@@ -21,10 +21,10 @@ This work extends previous approaches like **mFrEn** [Niu et al., 2024](https://
 | `M3FrEn`   | **Multivariate** | **Multiscale**   | Our main contribution — generalization of mFrEn across channels, frequencies, and time scales. |
 ---
 **EEG bands considered**:
-- Delta (0.5–4 Hz)
-- Theta (4–8 Hz)
-- Alpha (8–13 Hz)
-- Beta (13–30 Hz)
+- δ (0.5–4 Hz)
+- θ (4–8 Hz)
+- α (8–13 Hz)
+- β (13–30 Hz)
 ---
 ## 📂 Repository Structure
 
