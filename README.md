@@ -58,5 +58,5 @@ The script generates synthetic EEG signals with controlled noise and structure u
 
 ## 📚 Reference
 
-If you use this code, please cite:
+If you use this code, please cite: P. Arpaia, M. Cacciapuoti, A. Cataldo, S. Criscuolo, E. De Benedetto, A. Masciullo, M. Pesola, R. Schiavoni, and A. Tedesco, _"A Novel Entropy Metric for Unified Analysis of Temporal, Spatial, and Spectral EEG Properties,"_ in IEEE Transactions on Biomedical Engineering, DOI:~10.1109/TBME.2025.3606955
 
